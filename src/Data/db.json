@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Goku",
+        "id": "1",
+        "universe": "7",
+        "raze": "Saiyan",
+        "abilities": "Super Saiyan, Kamehameha",
+        "bio": "The main protagonist of the Dragon Ball series."
+    },
+    {
+        "name": "Vegeta",
+        "id": "2",
+        "universe": "7",
+        "raze": "Saiyan",
+        "abilities": "Super Saiyan, Galick Gun",
+        "bio": "Goku's rival and former villain turned anti-hero."
+    },
+    {
+        "name": "Gohan",
+        "id": "3",
+        "universe": "7",
+        "raze": "Half-Saiyan",
+        "abilities": "Super Saiyan, Masenko",
+        "bio": "Goku's first son and one of the most powerful characters in the series."
+    },
+    {
+        "name": "Piccolo",
+        "id": "4",
+        "universe": "7",
+        "raze": "Namekian",
+        "abilities": "Special Beam Cannon, Regeneration",
+        "bio": "Originally a villain, he becomes one of Goku's closest allies."
+    },
+    {
+        "name": "Krillin",
+        "id": "5",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Destructo Disc",
+        "bio": "Goku's best friend and one of the most skilled human fighters."
+    },
+    {
+        "name": "Tien",
+        "id": "6",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Tri-Beam",
+        "bio": "A disciplined warrior and former rival of Goku."
+    },
+    {
+        "name": "Yamcha",
+        "id": "7",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Wolf Fang Fist",
+        "bio": "A former desert bandit and one of Goku's earliest allies."
+    },
+    {
+        "name": "Chiaotzu",
+        "id": "8",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Psychic Powers, Dodon Ray",
+        "bio": "Tien's best friend and a small, telekinetic human."
+    },
+    {
+        "name": "Goten",
+        "id": "9",
+        "universe": "7",
+        "raze": "Half-Saiyan",
+        "abilities": "Super Saiyan",
+        "bio": "Goku's second son and the youngest Super Saiyan in history."
+    },
+    {
+        "name": "Trunks",
+        "id": "10",
+        "universe": "7",
+        "raze": "Half-Saiyan",
+        "abilities": "Super Saiyan, Galick Gun",
+        "bio": "Vegeta's son and a skilled time traveler."
+    },
+    {
+        "name": "Android 18",
+        "id": "11",
+        "universe": "7",
+        "raze": "Android",
+        "abilities": "Energy Absorption, Energy Barrier",
+        "bio": "Originally a human turned into a cyborg by Dr. Gero."
+    },
+    {
+        "name": "Android 17",
+        "id": "12",
+        "universe": "7",
+        "raze": "Android",
+        "abilities": "Energy Absorption, Energy Barrier",
+        "bio": "Android 18's twin brother and a former villain."
+    },
+    {
+        "name": "Frieza",
+        "id": "13",
+        "universe": "7",
+        "raze": "Frieza Race",
+        "abilities": "Golden Frieza, Death Beam",
+        "bio": "One of the series' main antagonists and the emperor of Universe 7."
+    },
+    {
+        "name": "Cell",
+        "id": "14",
+        "universe": "7",
+        "raze": "Bio-Android",
+        "abilities": "Perfect Form, Kamehameha",
+        "bio": "A bio-engineered being created from the cells of various characters."
+    },
+    {
+        "name": "Majin Buu",
+        "id": "15",
+        "universe": "7",
+        "raze": "Majin",
+        "abilities": "Regeneration, Chocolate Beam",
+        "bio": "A powerful magical being created by the wizard Bibidi."
+    },
+    {
+        "name": "Beerus",
+        "id": "16",
+        "universe": "7",
+        "raze": "God of Destruction",
+        "abilities": "Hakai, Destruction Energy",
+        "bio": "The God of Destruction of Universe 7 and one of the strongest characters in the series."
+    },
+    {
+        "name": "Whis",
+        "id": "17",
+        "universe": "7",
+        "raze": "Angel",
+        "abilities": "Time Manipulation, Ultra Instinct",
+        "bio": "Beerus' martial arts teacher and the guide of Universe 7's Gods of Destruction."
+    },
+    {
+        "name": "Bulma",
+        "id": "18",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Genius Inventor",
+        "bio": "Vegeta's wife and one of the most intelligent characters in the series."
+    },
+    {
+        "name": "Chi-Chi",
+        "id": "19",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Skilled Martial Artist",
+        "bio": "Goku's wife and the mother of Gohan and Goten."
+    },
+    {
+        "name": "Videl",
+        "id": "20",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Flight, Ki Manipulation",
+        "bio": "Gohan's wife and a skilled martial artist."
+    },
+    {
+        "name": "Mr. Satan",
+        "id": "21",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Superhuman Strength",
+        "bio": "The World Martial Arts Champion and a recurring character in the series."
+    },
+    {
+        "name": "Turtle",
+        "id": "22",
+        "universe": "7",
+        "raze": "Animal",
+        "abilities": "Immortality",
+        "bio": "Master Roshi's pet and companion."
+    },
+    {
+        "name": "Master Roshi",
+        "id": "23",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Kamehameha, Immortality",
+        "bio": "Goku and Krillin's martial arts teacher and a perverted hermit."
+    },
+    {
+        "name": "Yajirobe",
+        "id": "24",
+        "universe": "7",
+        "raze": "Human",
+        "abilities": "Swordsmanship",
+        "bio": "A samurai-like character who aids the Z Fighters in various battles."
+    },
+    {
+        "name": "Kami",
+        "id": "25",
+        "universe": "7",
+        "raze": "Namekian",
+        "abilities": "Regeneration, Power Bestowal",
+        "bio": "The Guardian of Earth and the creator of the Dragon Balls."
+    },
+    {
+        "name": "King Piccolo",
+        "id": "26",
+        "universe": "7",
+        "raze": "Namekian",
+        "abilities": "Regeneration, Evil Containment Wave",
+        "bio": "The original incarnation of Piccolo and one of the series' main villains."
+    },
+    {
+        "name": "Raditz",
+        "id": "27",
+        "universe": "7",
+        "raze": "Saiyan",
+        "abilities": "Double Sunday, Energy Wave",
+        "bio": "Goku's older brother and one of the first Saiyan villains in the series."
+    },
+    {
+        "name": "Nappa",
+        "id": "28",
+        "universe": "7",
+        "raze": "Saiyan",
+        "abilities": "Giant Form, Bomber DX",
+        "bio": "Vegeta's former partner and a member of the Saiyan Army."
+    },
+    {
+        "name": "Ginyu",
+        "id": "29",
+        "universe": "7",
+        "raze": "Alien",
+        "abilities": "Body Change, Milky Cannon",
+        "bio": "The captain of the Ginyu Force, a team of elite mercenaries."
+    },
+    {
+        "name": "Recoome",
+        "id": "30",
+        "universe": "7",
+        "raze": "Alien",
+        "abilities": "Eraser Gun, Recoome Ultra Fighting Bomber",
+        "bio": "A member of the Ginyu Force known for his massive size and strength."
+    },
+    {
+        "name": "Burter",
+        "id": "31",
+        "universe": "7",
+        "raze": "Alien",
+        "abilities": "Blue Hurricane, Purple Comet Attack",
+        "bio": "A member of the Ginyu Force known for his incredible speed."
+    },
+    {
+        "name": "Jeice",
+        "id": "32",
+        "universe": "7",
+        "raze": "Alien",
+        "abilities": "Crusher Ball, Purple Comet Attack",
+        "bio": "A member of the Ginyu Force known for his flamboyant personality."
+    },
+    {
+        "name": "Guldo",
+        "id": "33",
+        "universe": "7",
+        "raze": "Alien",
+        "abilities": "Time Freeze, Guldo Special",
+        "bio": "A member of the Ginyu Force known for his psychic powers."
+    },
+    {
+        "name": "Dende",
+        "id": "34",
+        "universe": "7",
+        "raze": "Namekian",
+        "abilities": "Healing, Power Sensing",
+        "bio": "A young Namekian who becomes the new Guardian of Earth after Kami."
+    },
+    {
+        "name": "Mr. Popo",
+        "id": "35",
+        "universe": "7",
+        "raze": "Genie",
+        "abilities": "Teleportation, Superhuman Strength",
+        "bio": "Kami's assistant and a loyal servant of the Guardian of Earth."
+    },
+    {
+        "name": "Shenron",
+        "id": "36",
+        "universe": "7",
+        "raze": "Dragon",
+        "abilities": "Granting Wishes",
+        "bio": "The wish-granting dragon summoned by collecting the seven Dragon Balls."
+    },
+    {
+        "name": "Broly",
+        "id": "37",
+        "universe": "7",
+        "raze": "Saiyan",
+        "abilities": "Legendary Super Saiyan, Omega Blaster",
+        "bio": "A Saiyan with an uncontrollable power that makes him one of the series' most dangerous villains."
+    },
+    {
+        "name": "Bardock",
+        "id": "38",
+        "universe": "7",
+        "raze": "Saiyan",
+        "abilities": "Final Spirit Cannon, Rebellion Trigger",
+        "bio": "Goku's father and a former member of the Saiyan Army."
+    },
+    {
+        "name": "Caulifla",
+        "id": "39",
+        "universe": "6",
+        "raze": "Saiyan",
+        "abilities": "Super Saiyan, Energy Blast",
+        "bio": "A Saiyan from Universe 6 and the leader of a group of Saiyan punks."
+    },
+    {
+        "name": "Kale",
+        "id": "40",
+        "universe": "6",
+        "raze": "Saiyan",
+        "abilities": "Berserker Super Saiyan, Gigantic Blast",
+        "bio": "A Saiyan from Universe 6 and Caulifla's best friend."
+    },
+    {
+        "name": "Hit",
+        "id": "41",
+        "universe": "6",
+        "raze": "Assassin",
+        "abilities": "Time-Skip, Invisible Eye Blast",
+        "bio": "A legendary assassin from Universe 6 known for his time manipulation abilities."
+    },
+    {
+        "name": "Cabba",
+        "id": "42",
+        "universe": "6",
+        "raze": "Saiyan",
+        "abilities": "Super Saiyan, Galick Cannon",
+        "bio": "A Saiyan from Universe 6 and a member of Caulifla's gang."
+    }
+]
