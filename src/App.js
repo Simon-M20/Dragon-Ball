@@ -1,9 +1,12 @@
 import "./App.css";
+import Header from "./Components/Header";
+import Main_character from "./Components/Main_character";
 
 function App() {
     return (
-        <div className='text-xl font-bold text-pink-400'>
-            <h1>hi!</h1>
+        <div className='App p-2 text-white bg-orange-500'>
+            <Header />
+            <Main_character />
         </div>
     );
 }
