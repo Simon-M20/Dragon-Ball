@@ -1,12 +1,14 @@
 import "./App.css";
+import CharacterGRid from "./Components/CharacterGrid";
 import Header from "./Components/Header";
-import Main_character from "./Components/Main_character";
+import MainCharacter from "./Components/MainCharacter";
 
 function App() {
     return (
-        <div className='App p-2 text-white bg-orange-500'>
+        <div className='App'>
             <Header />
-            <Main_character />
+            <MainCharacter />
+            <CharacterGRid />
         </div>
     );
 }
