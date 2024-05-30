@@ -11,7 +11,7 @@ body {
     max-width: 500px;
     width: 100%;
     background-image: url("./Assets/T.O.P_Background.webp");
-    height: 100vh;
+    /* height: 100vh; */
     background-position: center;
     background-size: cover;
     backdrop-filter: none;
