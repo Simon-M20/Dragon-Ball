@@ -1,0 +1,7 @@
+.Main__image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 290px;
+    transform: translateX(10px);
+}
