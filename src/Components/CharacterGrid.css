@@ -1,0 +1,29 @@
+.CharacterGrid {
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    /* display: flex;
+    flex-wrap: nowrap; */
+    justify-content: space-around;
+    padding: 28px 16px;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+
+.CharacterGallery {
+    display: flex;
+    flex-wrap: nowrap;
+    /* width: 90vw; */
+}
+
+.CharacterGrid figure {
+    min-width: 135px;
+    border-radius: 35px;
+    height: 150px;
+    scale: 0.9;
+}
+
+.CharacterGrid figure img {
+    scale: 1.2;
+    transform: translate(15px, -10px);
+}
