@@ -4,10 +4,10 @@ import "./Header.css";
 
 function Header() {
     return (
-        <header className='w-full items-center flex justify-between p-2'>
+        <header className='w-full items-center flex justify-between px-2'>
             <section>
                 <i>
-                    <span class='material-symbols-outlined'>sort</span>
+                    <span className='material-symbols-outlined'>sort</span>
                 </i>
             </section>
             <figure className='w-full flex justify-center'>
