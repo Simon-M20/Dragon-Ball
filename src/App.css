@@ -2,7 +2,8 @@ body {
     /* max-width: 400px; */
     width: 100%;
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: initial;
     align-items: center;
     background: rgba(0, 0, 0, 0.9);
 }
@@ -15,4 +16,11 @@ body {
     background-position: center;
     background-size: cover;
     backdrop-filter: none;
+}
+
+@media screen and (min-width: 400px) {
+    body {
+        flex-direction: column;
+        justify-content: center;
+    }
 }
