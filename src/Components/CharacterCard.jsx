@@ -2,7 +2,7 @@ import Goku from "../Assets/Characters/goku.png";
 
 function CharacterCard() {
     return (
-        <section className='flex flex-col justify-center cursor-pointer'>
+        <section className='flex flex-col justify-center cursor-pointer mx-3 CharacterCards'>
             <figure className='bg-orange-500'>
                 <img src={Goku} alt='Characters' />
             </figure>
