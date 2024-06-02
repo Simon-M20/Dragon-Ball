@@ -2,28 +2,51 @@
     background-color: white;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    /* display: flex;
-    flex-wrap: nowrap; */
     justify-content: space-around;
-    padding: 28px 16px;
+    padding: 28px 16px 16px;
     overflow-x: scroll;
     scroll-behavior: smooth;
 }
 
-.CharacterGallery {
+/* .CharacterGallery {
     display: flex;
     flex-wrap: nowrap;
-    /* width: 90vw; */
-}
+    margin-bottom: 16px;
+} */
 
 .CharacterGrid figure {
     min-width: 135px;
     border-radius: 35px;
     height: 150px;
     scale: 0.9;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+        rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
 .CharacterGrid figure img {
     scale: 1.2;
-    transform: translate(15px, -10px);
+    transform: translate(0px, -10px);
+}
+
+.swiper-slide {
+    width: 33% !important;
+    margin-right: 30px !important;
+}
+
+.CharacterGrid__button {
+    display: flex;
+    text-transform: uppercase;
+    background-color: orange;
+    color: black;
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: 0.2;
+    width: 100%;
+    border-radius: 15px;
+    padding: 8px 16px 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 32px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
