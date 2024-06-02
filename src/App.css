@@ -18,6 +18,45 @@ body {
     backdrop-filter: none;
 }
 
+.Footer {
+    background-color: #fff;
+    padding: 16px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    max-width: 500px;
+}
+
+.Main__button {
+    display: flex;
+    text-transform: uppercase;
+    background-color: orange;
+    color: black;
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: 1px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 8px 16px 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+    transition: all 0.7s ease-in;
+
+    /* position: fixed;
+    bottom: 10px; */
+}
+
+.Main__button:hover {
+    transform: scale(0.9);
+}
 @media screen and (min-width: 400px) {
     body {
         flex-direction: column;
