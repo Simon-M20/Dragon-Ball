@@ -7,7 +7,6 @@ function CharacterGRid() {
     return (
         <section className='CharacterGrid'>
             <CharacterSlider />
-            <button className='CharacterGrid__button'>ver mas</button>
         </section>
     );
 }
