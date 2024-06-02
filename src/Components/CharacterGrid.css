@@ -4,8 +4,10 @@
     border-top-right-radius: 20px;
     justify-content: space-around;
     padding: 28px 16px 16px;
-    overflow-x: scroll;
-    scroll-behavior: smooth;
+    overflow-x: hidden;
+    /* scroll-behavior: smooth; */
+
+    margin-bottom: 84px;
 }
 
 /* .CharacterGallery {
@@ -28,25 +30,39 @@
     transform: translate(0px, -10px);
 }
 
-.swiper-slide {
+/* .swiper-slide {
     width: 33% !important;
     margin-right: 30px !important;
+} */
+
+.CharacterSlider {
+    display: flex;
+    /* margin: 0 0.75rem; */
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: nowrap;
+
+    overflow-x: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
-.CharacterGrid__button {
-    display: flex;
-    text-transform: uppercase;
-    background-color: orange;
-    color: black;
-    font-weight: 800;
-    font-size: 24px;
-    letter-spacing: 0.2;
-    width: 100%;
-    border-radius: 15px;
-    padding: 8px 16px 10px;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    margin-top: 32px;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+.CharacterSlider.gallery {
+    flex-wrap: wrap;
+}
+
+.CharacterSlider::-webkit-scrollbar {
+    display: none;
+}
+
+.CharacterCards {
+    flex: 0 0 33.33%;
+    scroll-snap-align: start;
+    margin-right: 10px;
+}
+
+.CharacterSlider.gallery .CharacterCards {
+    flex: 0 0 50%;
+    margin: 0;
+    padding: 8px 8px 24px;
 }
