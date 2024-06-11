@@ -4,14 +4,14 @@ import CharacterGRid from "./Components/CharacterGrid";
 import Header from "./Components/Header";
 import MainCharacter from "./Components/MainCharacter";
 import DBContext from "./Context/GlobalContext";
-import { getCharactersData } from "./Utils/FetchApi";
-import { useState } from "react";
+// import { getCharactersData } from "./Utils/FetchApi";
+// import { useState } from "react";
 
 function App() {
     const { gallery, setGallery } = useContext(DBContext);
-    const [characters, setCharacters] = useState([]);
+    // const [characters, setCharacters] = useState([]);
 
-    getCharactersData("./Data/db.json");
+    // useEffect(() => {}, []);
 
     return (
         <div className='App'>
