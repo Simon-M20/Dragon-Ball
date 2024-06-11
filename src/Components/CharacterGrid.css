@@ -27,7 +27,13 @@
 
 .CharacterGrid figure img {
     scale: 1.2;
-    transform: translate(0px, -10px);
+    object-fit: contain;
+    transform: translate(0px, 8px);
+
+    /* max-width: 150px;
+    max-height: 150px; */
+    height: 100%;
+    width: 100%;
 }
 
 /* .swiper-slide {
@@ -59,6 +65,12 @@
     flex: 0 0 33.33%;
     scroll-snap-align: start;
     margin-right: 10px;
+
+    transition: all 0.3s ease-in;
+}
+
+.CharacterCards.active {
+    transform: scale(0.8);
 }
 
 .CharacterSlider.gallery .CharacterCards {
