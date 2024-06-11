@@ -2,337 +2,295 @@
     {
         "name": "Goku",
         "id": "1",
-        "universe": "7",
         "raze": "Saiyan",
-        "abilities": "Super Saiyan, Kamehameha",
-        "bio": "The main protagonist of the Dragon Ball series."
+        "desc": "The main protagonist of Dragon Ball series. Goku is a Saiyan warrior who seeks to protect Earth from various threats while constantly striving to become stronger.",
+        "universe": "7"
     },
     {
         "name": "Vegeta",
         "id": "2",
-        "universe": "7",
         "raze": "Saiyan",
-        "abilities": "Super Saiyan, Galick Gun",
-        "bio": "Goku's rival and former villain turned anti-hero."
+        "desc": "The prince of the Saiyan race and rival to Goku. Vegeta is initially introduced as a villain but later becomes one of Earth's greatest defenders.",
+        "universe": "7"
     },
     {
         "name": "Gohan",
         "id": "3",
-        "universe": "7",
         "raze": "Half-Saiyan",
-        "abilities": "Super Saiyan, Masenko",
-        "bio": "Goku's first son and one of the most powerful characters in the series."
+        "desc": "The eldest son of Goku and Chi-Chi. Gohan is a powerful warrior who has saved the Earth multiple times, often surpassing his father's strength.",
+        "universe": "7"
     },
     {
         "name": "Piccolo",
         "id": "4",
-        "universe": "7",
         "raze": "Namekian",
-        "abilities": "Special Beam Cannon, Regeneration",
-        "bio": "Originally a villain, he becomes one of Goku's closest allies."
+        "desc": "Originally a villain, Piccolo becomes one of Earth's greatest allies. He is the reincarnation of the evil King Piccolo and serves as a mentor to Gohan.",
+        "universe": "7"
     },
     {
         "name": "Krillin",
         "id": "5",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Destructo Disc",
-        "bio": "Goku's best friend and one of the most skilled human fighters."
+        "desc": "One of Goku's closest friends and a skilled martial artist. Krillin is a key member of the Z Fighters and has fought alongside Goku in many battles.",
+        "universe": "7"
     },
     {
         "name": "Tien",
         "id": "6",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Tri-Beam",
-        "bio": "A disciplined warrior and former rival of Goku."
+        "desc": "A skilled martial artist and former student of Master Roshi. Tien is known for his powerful techniques, including the Tri-Beam.",
+        "universe": "7"
     },
     {
         "name": "Yamcha",
         "id": "7",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Wolf Fang Fist",
-        "bio": "A former desert bandit and one of Goku's earliest allies."
+        "desc": "A former desert bandit turned martial artist. Yamcha is known for his bravery and has fought alongside the Z Fighters in numerous battles.",
+        "universe": "7"
     },
     {
         "name": "Chiaotzu",
         "id": "8",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Psychic Powers, Dodon Ray",
-        "bio": "Tien's best friend and a small, telekinetic human."
+        "desc": "A small, telekinetic warrior and lifelong friend of Tien. Chiaotzu possesses psychic abilities and has fought against many powerful foes.",
+        "universe": "7"
     },
     {
         "name": "Goten",
         "id": "9",
-        "universe": "7",
         "raze": "Half-Saiyan",
-        "abilities": "Super Saiyan",
-        "bio": "Goku's second son and the youngest Super Saiyan in history."
+        "desc": "The second son of Goku and Chi-Chi. Goten is a playful and energetic fighter who closely resembles his father in both appearance and abilities.",
+        "universe": "7"
     },
     {
         "name": "Trunks",
         "id": "10",
-        "universe": "7",
         "raze": "Half-Saiyan",
-        "abilities": "Super Saiyan, Galick Gun",
-        "bio": "Vegeta's son and a skilled time traveler."
+        "desc": "The son of Vegeta and Bulma from the future timeline. Trunks is a skilled warrior who travels back in time to warn the Z Fighters of impending danger.",
+        "universe": "7"
     },
     {
         "name": "Android 18",
         "id": "11",
-        "universe": "7",
         "raze": "Android",
-        "abilities": "Energy Absorption, Energy Barrier",
-        "bio": "Originally a human turned into a cyborg by Dr. Gero."
+        "desc": "A powerful cyborg created by Dr. Gero to serve his vendetta against Goku. Android 18 later joins the Z Fighters and forms a family with Krillin.",
+        "universe": "7"
     },
     {
         "name": "Android 17",
         "id": "12",
-        "universe": "7",
         "raze": "Android",
-        "abilities": "Energy Absorption, Energy Barrier",
-        "bio": "Android 18's twin brother and a former villain."
+        "desc": "The twin brother of Android 18 and another creation of Dr. Gero. Android 17 is a skilled fighter who protects wildlife on a secluded island.",
+        "universe": "7"
     },
     {
         "name": "Frieza",
         "id": "13",
-        "universe": "7",
         "raze": "Frieza Race",
-        "abilities": "Golden Frieza, Death Beam",
-        "bio": "One of the series' main antagonists and the emperor of Universe 7."
+        "desc": "An intergalactic tyrant and one of the most powerful villains in the universe. Frieza is responsible for the destruction of Planet Vegeta and many other atrocities.",
+        "universe": "7"
     },
     {
         "name": "Cell",
         "id": "14",
-        "universe": "7",
         "raze": "Bio-Android",
-        "abilities": "Perfect Form, Kamehameha",
-        "bio": "A bio-engineered being created from the cells of various characters."
+        "desc": "A bio-engineered creature created from the cells of the greatest warriors in the universe. Cell seeks perfection and poses a grave threat to Earth.",
+        "universe": "7"
     },
     {
         "name": "Majin Buu",
         "id": "15",
-        "universe": "7",
         "raze": "Majin",
-        "abilities": "Regeneration, Chocolate Beam",
-        "bio": "A powerful magical being created by the wizard Bibidi."
+        "desc": "An ancient and malevolent being who was awakened by the wizard Babidi. Majin Buu possesses immense power and childlike innocence.",
+        "universe": "7"
     },
     {
         "name": "Beerus",
         "id": "16",
-        "universe": "7",
         "raze": "God of Destruction",
-        "abilities": "Hakai, Destruction Energy",
-        "bio": "The God of Destruction of Universe 7 and one of the strongest characters in the series."
+        "desc": "The God of Destruction of Universe 7. Beerus maintains balance by destroying planets and is accompanied by his attendant, Whis.",
+        "universe": "7"
     },
     {
         "name": "Whis",
         "id": "17",
-        "universe": "7",
         "raze": "Angel",
-        "abilities": "Time Manipulation, Ultra Instinct",
-        "bio": "Beerus' martial arts teacher and the guide of Universe 7's Gods of Destruction."
+        "desc": "An angelic being and the attendant of Beerus. Whis is incredibly powerful and serves as both a mentor and caretaker to Beerus.",
+        "universe": "7"
     },
     {
         "name": "Bulma",
         "id": "18",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Genius Inventor",
-        "bio": "Vegeta's wife and one of the most intelligent characters in the series."
+        "desc": "A brilliant scientist and inventor, and one of the founding members of the Z Fighters. Bulma provides crucial technological support to her friends.",
+        "universe": "7"
     },
     {
         "name": "Chi-Chi",
         "id": "19",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Skilled Martial Artist",
-        "bio": "Goku's wife and the mother of Gohan and Goten."
+        "desc": "The wife of Goku and the mother of Gohan and Goten. Chi-Chi is a fierce and protective mother who wants the best for her family.",
+        "universe": "7"
     },
     {
         "name": "Videl",
         "id": "20",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Flight, Ki Manipulation",
-        "bio": "Gohan's wife and a skilled martial artist."
+        "desc": "The daughter of Mr. Satan and the wife of Gohan. Videl is a skilled martial artist who fights for justice alongside her husband.",
+        "universe": "7"
     },
     {
         "name": "Mr. Satan",
         "id": "21",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Superhuman Strength",
-        "bio": "The World Martial Arts Champion and a recurring character in the series."
+        "desc": "A famous martial artist and champion of the world. Mr. Satan is known for his exaggerated ego but is ultimately a good-hearted individual.",
+        "universe": "7"
     },
     {
         "name": "Turtle",
         "id": "22",
-        "universe": "7",
         "raze": "Animal",
-        "abilities": "Immortality",
-        "bio": "Master Roshi's pet and companion."
+        "desc": "A talking sea turtle and lifelong friend of Master Roshi. Turtle has been a companion to the Z Fighters for many years.",
+        "universe": "7"
     },
     {
         "name": "Master Roshi",
         "id": "23",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Kamehameha, Immortality",
-        "bio": "Goku and Krillin's martial arts teacher and a perverted hermit."
+        "desc": "A wise and powerful martial artist known as the Turtle Hermit. Master Roshi is one of Earth's greatest fighters and mentors to Goku and Krillin.",
+        "universe": "7"
     },
     {
         "name": "Yajirobe",
         "id": "24",
-        "universe": "7",
         "raze": "Human",
-        "abilities": "Swordsmanship",
-        "bio": "A samurai-like character who aids the Z Fighters in various battles."
+        "desc": "A reclusive warrior and ally of the Z Fighters. Yajirobe is known for his cowardice but has proven himself in battle when needed.",
+        "universe": "7"
     },
     {
         "name": "Kami",
         "id": "25",
-        "universe": "7",
         "raze": "Namekian",
-        "abilities": "Regeneration, Power Bestowal",
-        "bio": "The Guardian of Earth and the creator of the Dragon Balls."
+        "desc": "The Guardian of Earth and the Namekian counterpart to Piccolo. Kami is a wise and ancient being who watches over the planet.",
+        "universe": "7"
     },
     {
         "name": "King Piccolo",
         "id": "26",
-        "universe": "7",
         "raze": "Namekian",
-        "abilities": "Regeneration, Evil Containment Wave",
-        "bio": "The original incarnation of Piccolo and one of the series' main villains."
+        "desc": "The evil counterpart of Kami and the original incarnation of Piccolo. King Piccolo seeks world domination and is responsible for great destruction.",
+        "universe": "7"
     },
     {
         "name": "Raditz",
         "id": "27",
-        "universe": "7",
         "raze": "Saiyan",
-        "abilities": "Double Sunday, Energy Wave",
-        "bio": "Goku's older brother and one of the first Saiyan villains in the series."
+        "desc": "The older brother of Goku and a low-class warrior of the Saiyan race. Raditz comes to Earth to recruit Goku but ends up clashing with him.",
+        "universe": "7"
     },
     {
         "name": "Nappa",
         "id": "28",
-        "universe": "7",
         "raze": "Saiyan",
-        "abilities": "Giant Form, Bomber DX",
-        "bio": "Vegeta's former partner and a member of the Saiyan Army."
+        "desc": "A Saiyan warrior and former general of the Saiyan Army. Nappa accompanies Vegeta to Earth in search of the Dragon Balls.",
+        "universe": "7"
     },
     {
         "name": "Ginyu",
         "id": "29",
-        "universe": "7",
-        "raze": "Alien",
-        "abilities": "Body Change, Milky Cannon",
-        "bio": "The captain of the Ginyu Force, a team of elite mercenaries."
+        "raze": "Unknown",
+        "desc": "The captain of the Ginyu Force, an elite squad of mercenaries in Frieza's army. Ginyu is known for his ability to switch bodies.",
+        "universe": "7"
     },
     {
         "name": "Recoome",
         "id": "30",
-        "universe": "7",
-        "raze": "Alien",
-        "abilities": "Eraser Gun, Recoome Ultra Fighting Bomber",
-        "bio": "A member of the Ginyu Force known for his massive size and strength."
+        "raze": "Unknown",
+        "desc": "A member of the Ginyu Force known for his immense strength and flamboyant personality. Recoome is one of Frieza's most loyal soldiers.",
+        "universe": "7"
     },
     {
         "name": "Burter",
         "id": "31",
-        "universe": "7",
-        "raze": "Alien",
-        "abilities": "Blue Hurricane, Purple Comet Attack",
-        "bio": "A member of the Ginyu Force known for his incredible speed."
+        "raze": "Unknown",
+        "desc": "A member of the Ginyu Force known for his incredible speed. Burter considers himself the fastest being in the universe.",
+        "universe": "7"
     },
     {
         "name": "Jeice",
         "id": "32",
-        "universe": "7",
-        "raze": "Alien",
-        "abilities": "Crusher Ball, Purple Comet Attack",
-        "bio": "A member of the Ginyu Force known for his flamboyant personality."
+        "raze": "Unknown",
+        "desc": "A member of the Ginyu Force known for his powerful energy attacks. Jeice is often seen alongside Burter during battles.",
+        "universe": "7"
     },
     {
         "name": "Guldo",
         "id": "33",
-        "universe": "7",
-        "raze": "Alien",
-        "abilities": "Time Freeze, Guldo Special",
-        "bio": "A member of the Ginyu Force known for his psychic powers."
+        "raze": "Unknown",
+        "desc": "A member of the Ginyu Force with psychic abilities. Guldo uses his telekinesis to immobilize his opponents in battle.",
+        "universe": "7"
     },
     {
         "name": "Dende",
         "id": "34",
-        "universe": "7",
         "raze": "Namekian",
-        "abilities": "Healing, Power Sensing",
-        "bio": "A young Namekian who becomes the new Guardian of Earth after Kami."
+        "desc": "A young Namekian who becomes the new Guardian of Earth after Kami. Dende possesses great healing abilities and a strong connection to nature.",
+        "universe": "7"
     },
     {
         "name": "Mr. Popo",
         "id": "35",
-        "universe": "7",
-        "raze": "Genie",
-        "abilities": "Teleportation, Superhuman Strength",
-        "bio": "Kami's assistant and a loyal servant of the Guardian of Earth."
+        "raze": "Unknown",
+        "desc": "An enigmatic character who serves as the assistant to Kami. Mr. Popo is responsible for maintaining the lookout and training the Z Fighters.",
+        "universe": "7"
     },
     {
         "name": "Shenron",
         "id": "36",
-        "universe": "7",
         "raze": "Dragon",
-        "abilities": "Granting Wishes",
-        "bio": "The wish-granting dragon summoned by collecting the seven Dragon Balls."
+        "desc": "The Eternal Dragon summoned by the Dragon Balls. Shenron has the power to grant any wish within his creator's power.",
+        "universe": "7"
     },
     {
         "name": "Broly",
         "id": "37",
-        "universe": "7",
         "raze": "Saiyan",
-        "abilities": "Legendary Super Saiyan, Omega Blaster",
-        "bio": "A Saiyan with an uncontrollable power that makes him one of the series' most dangerous villains."
+        "desc": "The Legendary Super Saiyan with immense power. Broly is known for his uncontrollable rage and desire for vengeance against Goku.",
+        "universe": "7"
     },
     {
         "name": "Bardock",
         "id": "38",
-        "universe": "7",
         "raze": "Saiyan",
-        "abilities": "Final Spirit Cannon, Rebellion Trigger",
-        "bio": "Goku's father and a former member of the Saiyan Army."
+        "desc": "The father of Goku and Raditz and a low-class warrior of the Saiyan race. Bardock is known for defying Frieza's orders and standing up against tyranny.",
+        "universe": "7"
     },
     {
         "name": "Caulifla",
         "id": "39",
-        "universe": "6",
         "raze": "Saiyan",
-        "abilities": "Super Saiyan, Energy Blast",
-        "bio": "A Saiyan from Universe 6 and the leader of a group of Saiyan punks."
+        "desc": "A powerful Saiyan from Universe 6 and leader of the Saiyan gang. Caulifla possesses immense potential and quickly masters Super Saiyan transformations.",
+        "universe": "6"
     },
     {
         "name": "Kale",
         "id": "40",
-        "universe": "6",
         "raze": "Saiyan",
-        "abilities": "Berserker Super Saiyan, Gigantic Blast",
-        "bio": "A Saiyan from Universe 6 and Caulifla's best friend."
+        "desc": "A timid but immensely powerful Saiyan from Universe 6. Kale is Caulifla's protégé and possesses a unique berserker form.",
+        "universe": "6"
     },
     {
         "name": "Hit",
         "id": "41",
-        "universe": "6",
         "raze": "Assassin",
-        "abilities": "Time-Skip, Invisible Eye Blast",
-        "bio": "A legendary assassin from Universe 6 known for his time manipulation abilities."
+        "desc": "The legendary assassin from Universe 6 known as the 'Legendary Hitman.' Hit is known for his time-skipping ability and stoic demeanor.",
+        "universe": "6"
     },
     {
         "name": "Cabba",
         "id": "42",
-        "universe": "6",
         "raze": "Saiyan",
-        "abilities": "Super Saiyan, Galick Cannon",
-        "bio": "A Saiyan from Universe 6 and a member of Caulifla's gang."
+        "desc": "A Saiyan warrior from Universe 6 and protege of Vegeta. Cabba is a noble fighter who seeks to protect his universe from threats.",
+        "universe": "6"
     }
 ]
