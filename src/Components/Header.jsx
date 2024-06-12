@@ -5,11 +5,11 @@ import "./Header.css";
 function Header() {
     return (
         <header className='w-full items-center flex justify-between px-2'>
-            <section>
+            {/* <section>
                 <i>
                     <span className='material-symbols-outlined'>sort</span>
                 </i>
-            </section>
+            </section> */}
             <figure className='w-full flex justify-center'>
                 <img
                     className='Header__logo'
