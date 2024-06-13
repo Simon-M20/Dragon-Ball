@@ -17,16 +17,18 @@ function App() {
         <div className='App'>
             <Header />
             <MainCharacter />
-            <CharacterGRid />
-            <footer className='Footer'>
-                <button
-                    onClick={() => {
-                        setGallery(!gallery);
-                    }}
-                    className='Main__button'>
-                    {gallery ? "ver menos" : "ver mas"}
-                </button>
-            </footer>
+            <section>
+                <CharacterGRid />
+                <footer className={`Footer ${gallery ? "active" : ""}`}>
+                    <button
+                        onClick={() => {
+                            setGallery(!gallery);
+                        }}
+                        className='Main__button'>
+                        {gallery ? "ver menos" : "ver mas"}
+                    </button>
+                </footer>
+            </section>
         </div>
     );
 }
