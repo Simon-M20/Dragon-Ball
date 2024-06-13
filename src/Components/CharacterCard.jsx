@@ -102,14 +102,14 @@ function CharacterCard({ name, id, desc, raze, universe }) {
     return (
         <section
             id={id}
-            className={`flex flex-col justify-center cursor-pointer mx-3 CharacterCards ${
+            className={`flex flex-col justify-center cursor-pointer CharacterCards ${
                 isClicked ? "active" : ""
             }`}
             onClick={handleClick}>
             <figure className='bg-orange-500'>
                 <img src={imageSrc} alt={name} loading='lazy' />
             </figure>
-            <h4 className='text-xl pt-3 text-center text-gray-500 font-extrabold uppercase'>
+            <h4 className='md:text-xl text-base pt-3 text-center text-gray-500 font-extrabold uppercase'>
                 {name}
             </h4>
         </section>

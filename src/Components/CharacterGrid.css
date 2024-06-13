@@ -3,11 +3,19 @@
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     justify-content: space-around;
-    padding: 28px 16px 16px;
-    overflow-x: hidden;
+    display: flex;
+    padding: 16px;
+    /* overflow-x: hidden; */
     /* scroll-behavior: smooth; */
 
-    margin-bottom: 84px;
+    margin-bottom: 0;
+}
+
+@media only screen and (min-width: 600px) {
+    .CharacterGrid {
+        padding: 28px 16px 16px;
+        /* margin-bottom: 84px; */
+    }
 }
 
 /* .CharacterGallery {
@@ -17,12 +25,20 @@
 } */
 
 .CharacterGrid figure {
-    min-width: 135px;
-    border-radius: 35px;
-    height: 150px;
+    min-width: 125px;
+    border-radius: 22px;
+    height: 135px;
     scale: 0.9;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
         rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+@media only screen and (min-width: 600px) {
+    .CharacterGrid figure {
+        min-width: 135px;
+        border-radius: 35px;
+        height: 150px;
+    }
 }
 
 .CharacterGrid figure img {
