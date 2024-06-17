@@ -49,52 +49,52 @@ function CharacterCard({ name, id, desc, raze, universe }) {
     };
 
     const images = importAll(
-        require.context("../Assets/Characters", false, /\.png$/)
+        require.context("../Assets/Characters", false, /\.webp$/)
     );
 
     const imageMapping = {
-        1: images["goku.png"],
-        2: images["vegeta.png"],
-        3: images["gohan.png"],
-        4: images["piccolo.png"],
-        5: images["krillin.png"],
-        6: images["tien.png"],
-        7: images["yamcha.png"],
-        8: images["chiaotzu.png"],
-        9: images["goten.png"],
-        10: images["trunks.png"],
-        11: images["android18.png"],
-        12: images["android17.png"],
-        13: images["frieza.png"],
-        14: images["cell.png"],
-        15: images["buu.png"],
-        16: images["beerus.png"],
-        17: images["whis.png"],
-        18: images["bulma.png"],
-        19: images["chi-chi.png"],
-        20: images["videl.png"],
-        21: images["mr satan.png"],
-        22: images["turtle.png"],
-        23: images["master roshi.png"],
-        24: images["yajirobe.png"],
-        25: images["kami.png"],
-        26: images["king piccolo.png"],
-        27: images["raditz.png"],
-        28: images["nappa.png"],
-        29: images["ginyu.png"],
-        30: images["recoome.png"],
-        31: images["burter.png"],
-        32: images["jeice.png"],
-        33: images["guldo.png"],
-        34: images["dende.png"],
-        35: images["mr popo.png"],
-        36: images["shenron.png"],
-        37: images["broly.png"],
-        38: images["bardock.png"],
-        39: images["caulifla.png"],
-        40: images["kale.png"],
-        41: images["hit.png"],
-        42: images["cabba.png"],
+        1: images["goku.webp"],
+        2: images["vegeta.webp"],
+        3: images["gohan.webp"],
+        4: images["piccolo.webp"],
+        5: images["krillin.webp"],
+        6: images["tien.webp"],
+        7: images["yamcha.webp"],
+        8: images["chiaotzu.webp"],
+        9: images["goten.webp"],
+        10: images["trunks.webp"],
+        11: images["android18.webp"],
+        12: images["android17.webp"],
+        13: images["frieza.webp"],
+        14: images["cell.webp"],
+        15: images["buu.webp"],
+        16: images["beerus.webp"],
+        17: images["whis.webp"],
+        18: images["bulma.webp"],
+        19: images["chi-chi.webp"],
+        20: images["videl.webp"],
+        21: images["mr-satan.webp"],
+        22: images["turtle.webp"],
+        23: images["master-roshi.webp"],
+        24: images["yajirobe.webp"],
+        25: images["kami.webp"],
+        26: images["king-piccolo.webp"],
+        27: images["raditz.webp"],
+        28: images["nappa.webp"],
+        29: images["ginyu.webp"],
+        30: images["recoome.webp"],
+        31: images["burter.webp"],
+        32: images["jeice.webp"],
+        33: images["guldo.webp"],
+        34: images["dende.webp"],
+        35: images["mr popo.webp"],
+        36: images["shenron.webp"],
+        37: images["broly.webp"],
+        38: images["bardock.webp"],
+        39: images["caulifla.webp"],
+        40: images["kale.webp"],
+        41: images["hit.webp"],
+        42: images["cabba.webp"],
     };
 
     const imageSrc = imageMapping[id];
@@ -109,9 +109,9 @@ function CharacterCard({ name, id, desc, raze, universe }) {
             <figure className='bg-orange-500'>
                 <img src={imageSrc} alt={name} loading='lazy' />
             </figure>
-            <h4 className='md:text-xl text-base pt-3 text-center text-gray-500 font-extrabold uppercase'>
+            <h2 className='md:text-xl text-base pt-3 text-center text-gray-500 font-extrabold uppercase'>
                 {name}
-            </h4>
+            </h2>
         </section>
     );
 }
