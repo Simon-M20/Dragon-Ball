@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-// import Goku from "../Assets/Characters/goku.png";
 import DBContext from "../Context/GlobalContext";
 import { useContext } from "react";
 
@@ -97,7 +96,7 @@ function CharacterCard({ name, id, desc, raze, universe }) {
         42: images["cabba.webp"],
     };
 
-    const imageSrc = imageMapping[id];
+    const imageSrc = `${imageMapping[id]}?width=125&height=150`;
 
     return (
         <section
@@ -107,7 +106,12 @@ function CharacterCard({ name, id, desc, raze, universe }) {
             }`}
             onClick={handleClick}>
             <figure className='bg-orange-500'>
-                <img src={imageSrc} alt={name} loading='lazy' />
+                <img
+                    src={imageSrc}
+                    alt={name}
+                    loading='lazy'
+                    sizes='(max-width: 500px) 125px, (max-width: 1200px) 300px, 1200px'
+                />
             </figure>
             <h2 className='md:text-xl text-base pt-3 text-center text-gray-500 font-extrabold uppercase'>
                 {name}
