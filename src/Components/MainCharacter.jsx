@@ -1,5 +1,5 @@
 import React from "react";
-import Goku from "../Assets/Characters/goku.png";
+import Goku from "../Assets/Characters/goku.webp";
 
 import "./MainCharacter.css";
 import { useContext } from "react";
@@ -7,7 +7,7 @@ import DBContext from "../Context/GlobalContext";
 
 function Main_character() {
     const { gallery, characters, mainCharacter } = useContext(DBContext);
-    console.log(mainCharacter, "log from the MAIN");
+    // console.log(mainCharacter, "log from the MAIN");
     return (
         <main className={`md:py-10 pt-4 pb-6 ${gallery ? "hide" : ""}`}>
             <figure className='flex justify-center flex-col w-11/12 mx-auto gap-3.5'>
@@ -19,6 +19,10 @@ function Main_character() {
                             : mainCharacter[0].imageSrc
                     }
                     alt='Goku'
+                    fetchpriority='high'
+                    height='300px'
+                    width='325px'
+                    sizes='(max-width: 600px) 300px, (max-width: 1200px) 600px, 1200px'
                 />
                 <span>
                     <figcaption className='flex items-center justify-start'>
