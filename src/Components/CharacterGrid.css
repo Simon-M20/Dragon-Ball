@@ -71,6 +71,7 @@
 
 .CharacterSlider.gallery {
     flex-wrap: wrap;
+    padding-bottom: 25px;
 }
 
 .CharacterSlider::-webkit-scrollbar {
